@@ -8,3 +8,6 @@
    - 하나의 시트(sheet)에 여러개의 데이터프레임 넣기
    - 시트(sheet) 내 string 입력하기
    - 여러 개의 시트(sheet) 만들기
+3. Fast API [링크](https://github.com/KIMHYEMEE/python-archive/tree/main/scripts/fast-api)
+   - fast API 서버 구현
+   - 주석 참고
