@@ -13,3 +13,8 @@
 - 주석 참고
 ## 4. 연속적으로 발생하는 값끼리 같은 인덱스 맵핑 [링크](https://github.com/KIMHYEMEE/python-archive/blob/main/scripts/seq_idx_mapping.py)
 - 예: ['a','b','a','a','c','c','c'] -> [1,2,3,3,4,4,4]
+## 5. Dynamic Time Warping (DTW) [링크](https://github.com/KIMHYEMEE/python-archive/blob/main/scripts/dtw.py)
+
+![DTW 예제](https://github.com/hoon-bari/comments/assets/121400054/f3382a02-ffcb-48d7-ad2f-8f3423b5bc6a)
+
+- 시계열 데이터 간 유사성 판단 지표
